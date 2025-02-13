@@ -4,6 +4,12 @@ body {
     padding: 0;
 }
 
+h1,h2 {
+    text-align: center;
+    color: brown;
+}
+
+
 header {
     background-color: aqua;
     padding: 20px;
@@ -32,5 +38,7 @@ section {
 footer {
     background-color:cornflowerblue;
     color: aqua;
-    
+    padding: 10px;
+    text-align: center;
+
 }
